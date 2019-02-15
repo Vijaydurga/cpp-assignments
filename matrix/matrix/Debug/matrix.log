@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\cdac\source\repos\vijaydurga\cpp-assignments\matrix\matrix\source.cpp(28): warning C4101: 'j': unreferenced local variable
+  matrix.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\cpp-assignments\matrix\Debug\matrix.exe
+  matrix.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\cpp-assignments\matrix\Debug\matrix.pdb (Full PDB)
