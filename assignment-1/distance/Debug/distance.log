@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\cdac\source\repos\vijaydurga\cpp-assignments\assignment-1\distance\source.cpp(59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  distance.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\cpp-assignments\assignment-1\Debug\distance.exe
+  distance.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\cpp-assignments\assignment-1\Debug\distance.pdb (Full PDB)
