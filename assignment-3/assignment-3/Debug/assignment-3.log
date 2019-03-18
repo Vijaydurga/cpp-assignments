@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\cdac\source\repos\vijaydurga\cpp-assignments\assignment-3\assignment-3\source.cpp(161): warning C4715: 'Stack<int>::pop': not all control paths return a value
+c:\users\cdac\source\repos\vijaydurga\cpp-assignments\assignment-3\assignment-3\source.cpp(161): warning C4715: 'Stack<float>::pop': not all control paths return a value
+c:\users\cdac\source\repos\vijaydurga\cpp-assignments\assignment-3\assignment-3\source.cpp(179): warning C4715: 'Stack<char *>::pop': not all control paths return a value
+c:\users\cdac\source\repos\vijaydurga\cpp-assignments\assignment-3\assignment-3\source.cpp(161): warning C4715: 'Stack<Complex>::pop': not all control paths return a value
+  assignment-3.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\cpp-assignments\assignment-3\Debug\stack.exe
+  assignment-3.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\cpp-assignments\assignment-3\Debug\stack.pdb (Full PDB)

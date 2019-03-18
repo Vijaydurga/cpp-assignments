@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\cdac\source\repos\vijaydurga\cpp-assignments\assignment-3\virtual_functions\source.cpp(147): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  virtual_functions.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\cpp-assignments\assignment-3\Debug\virtual_functions.exe
+  virtual_functions.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\cpp-assignments\assignment-3\Debug\virtual_functions.pdb (Full PDB)
