@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\cdac\source\repos\vijaydurga\cpp-assignments\assignment-1\complex\source.cpp(86): warning C4305: 'argument': truncation from 'double' to 'float'
+  complex.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\cpp-assignments\assignment-1\Debug\complex.exe
+  complex.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\cpp-assignments\assignment-1\Debug\complex.pdb (Full PDB)
